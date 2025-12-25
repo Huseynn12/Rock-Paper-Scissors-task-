@@ -7,7 +7,7 @@ markdown
 **Seed:** 2024306
 
 ## Presentation
-[View Presentation Slides](https://drive.google.com/your-link-here)
+[View Presentation Slides](https://1drv.ms/p/c/e9de17b25a7f2ce3/IQCr6KuLjFwzRJeTOFIRbXtuAcZsxozwkBjMgjimA-A116I)
 
 ## Dataset
 - **Name:** Kaggle Rock-Paper-Scissors  
